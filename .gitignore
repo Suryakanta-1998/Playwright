@@ -1,0 +1,10 @@
+
+# Dependencies
+node_modules/
+
+# Playwright reports
+test-results/
+playwright-report/
+
+.env
+.env.local
